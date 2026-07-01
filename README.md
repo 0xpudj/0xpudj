@@ -10,7 +10,7 @@
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
 </p>
 
-<a href='https://github.com/0xpudj/-github-stats-transparent'>
+<a href='https://github.com/0xpudj/-github-stats-transparent'></a>
   
 - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently working on my **[homelab]**

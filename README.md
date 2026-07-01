@@ -2,13 +2,14 @@
 
 <!-- Social icons section -->
 <p align="center">
+  <a href="https://www.instagram.com/0xpudj" alt="Instagram" title="Instagram"><img width="32px" src="https://www.nicepng.com/png/full/68-682147_ig-icon-pink-instagram.png"/></a>
   <a href="https://www.youtube.com/@0xpudj"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/0xpudj/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/0xpudj"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/0xpudj" alt="Instagram" title="Instagram"><img width="32px" src="https://www.nicepng.com/png/full/68-682147_ig-icon-pink-instagram.png"/></a>
+  
   <a href="https://discord.gg/0xpudj" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/0xpudj"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>

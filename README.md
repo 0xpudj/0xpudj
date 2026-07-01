@@ -20,7 +20,16 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
-<a href="#0xpudj-title"><img src="https://raw.githubusercontent.com/0xpudj/github-stats-transparent/output/generated/overview.svg" alt="0xpudj" align="right" /></a>
+
+<a href='https://github.com/0xpudj/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
+
 ### 🔗 Connect with me
 
 <p align="left">

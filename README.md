@@ -1,4 +1,4 @@
-<h1 align="left" id="0xpudj-title">:wave: Hello there! I'm 0xpudj</h1>
+<h1 align="center" id="0xpudj-title">:wave: Hello there! I'm 0xpudj</h1>
 
 <!-- Social icons section -->
 <p align="center">
@@ -17,7 +17,7 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/0xpudj"><img src="https://komarev.com/ghpvc/?username=0xpudj" alt="page views" /></a>
   <a href="https://0xpudj.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
   <a href="https://stackoverflow.com/users/32896272/0xpudj"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchangestackoverflow/r/32896272?color=orange&label=reputation&logo=stackoverflow"></a>
@@ -27,7 +27,7 @@
 </p>
 
 
-<h3 align="left">I do Cybersecurity | Reverse Engineering | Networking | DevOps things</h3>
+<h3 align="center">I do Cybersecurity | Reverse Engineering | Networking | DevOps things</h3>
 
 
 

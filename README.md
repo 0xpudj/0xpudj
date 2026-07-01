@@ -10,7 +10,7 @@
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
 </p>
 
-<a href="#0xpudj-title"><img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xpudj&show_icons=true&theme=transparent)" alt="0xpudj" align="right" /></a>
+<a href="#0xpudj-title"><![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xpudj&show_icons=true&theme=transparent) alt="0xpudj" align="right" /></a>
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently working on my **[homelab]**

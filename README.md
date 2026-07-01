@@ -8,7 +8,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/0xpudj"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/0xpudj" alt="Instagram" title="Instagram"><img width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXy2nY5kNZVNk12yeu7UINYSYvPnVdZ7wwikMWW2JAhA&s=10"/></a>
+  <a href="https://www.instagram.com/0xpudj" alt="Instagram" title="Instagram"><img width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyTcTnDByxopHwVytOgWC80yun_y0AEcAIQXLsLFf26w&s=10"/></a>
   <a href="https://discord.gg/0xpudj" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/0xpudj"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>

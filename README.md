@@ -17,6 +17,8 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
+<h3 align="center">I do Cybersecurity | Reverse Engineering | Networking | DevOps things</h3>
+
 <p align="center">
   <a href="https://github.com/0xpudj"><img src="https://komarev.com/ghpvc/?username=0xpudj" alt="page views" /></a>
   <a href="https://0xpudj.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
@@ -24,7 +26,7 @@
   <a href="https://www.youtube.com/@0xpudj"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube"></a>
   <a href="https://github.com/0xpudj?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/0xpudj?style=flat&logo=github"></a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
-<h3 align="center">I do Cybersecurity | Reverse Engineering | Networking | DevOps things</h3>
+
 </p>
 
 
